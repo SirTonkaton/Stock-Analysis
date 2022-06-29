@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to help the user evaluate the performance of stocks through multiple years. Based on the given information for each stock, an individual will be able to select where we should invest to maximize their return. Keep in mind that while a stock may perform exceptionally in one year, the story can be completely different the following year. Therefore, it is important to know the historical rate of return of each stock.
 
-## Let's compare the rate of return for the 2017 and 2018 on the following stocks:
+## Let's compare the rate of return for 2017 and 2018 on the following stocks:
 
 ![All Stocks 2017](https://user-images.githubusercontent.com/107765611/176336255-cead57be-981f-4c4b-97ea-a6ae60f5c826.png)
 
